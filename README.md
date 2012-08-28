@@ -1,8 +1,8 @@
-# PyroStreams Files Folder Field Type
+# PyroStreams File Folders Field Type
 Allows you to assign a files folder to a stream entry to use for images/files/etc.
 
 ## Installation
-To install, download from GitHub and rename the folder to "files_folder". Put this in your addons/site_ref/field_types/ or addons/shared_addons/field_types folder. Once you've placed it into one of these folders, it'll be ready to use with PyroStreams.
+To install, download from GitHub and rename the folder to "file_folders". Put this in your addons/site_ref/field_types/ or addons/shared_addons/field_types folder. Once you've placed it into one of these folders, it'll be ready to use with PyroStreams.
 
 ## Usage
 Will allow for a loop that will show each file
