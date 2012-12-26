@@ -8,7 +8,9 @@
  */
 class Field_file_folders
 {
-	public $field_type_slug			= 'file_folders';
+	public $field_type_name				= 'File Folders';
+	
+	public $field_type_slug				= 'file_folders';
 	
 	public $db_col_type				= 'int';
 
@@ -18,7 +20,7 @@ class Field_file_folders
 
 	public $author					= array('name'=>'Samuel Goodwin', 'url'=>'');
 
-	public $_folder_list			= array();
+	public $_folder_list				= array();
 		
 	// --------------------------------------------------------------------------
 
