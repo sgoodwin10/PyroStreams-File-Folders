@@ -16,9 +16,9 @@ class Field_file_folders
 
 	public $alt_process				= false;
 
-	public $version					= '1.0';
+	public $version					= '1.1';
 
-	public $author					= array('name'=>'Samuel Goodwin', 'url'=>'');
+	public $author					= array('name'=>'Samuel Goodwin', 'url'=>'randomzeros.com');
 
 	public $_folder_list				= array();
 		
